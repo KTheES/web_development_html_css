@@ -172,6 +172,9 @@ https://flukeout.github.io/
           CSS에서 설정합니다.
 
           textdecoration.html / textdecoration.css 만들겠습니다.
+
+ github 올리고 사인아웃해야함
+ git commit -m "feat: 20250131 before textdecoration
     
 
 
